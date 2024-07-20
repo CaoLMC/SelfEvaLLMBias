@@ -7,5 +7,5 @@ gpt-3.5-turbo
 gpt-4
 claude-1
 claude-2.0
-LLaMA-2-70b
+LLaMA-2-70b. 
 All LLMs were tested before March 2024.
